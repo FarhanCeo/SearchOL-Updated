@@ -1,0 +1,119 @@
+SEARCH RESULT FOR: Farhan Ahmed
+Total links => 20
+Total sites => 11
+
+SITE LINKS:
+[+]:https://en.wikipedia.org/wiki/Farhan_Ahmed
+[+]:https://www.espncricinfo.com/player/farhan-ahmed-1318270
+[+]:https://www.cricbuzz.com/profiles/10879/farhan-ahmed
+[+]:https://www.instagram.com/farhanahmdjovan/
+[+]:https://www.crichq.com/players/2216078
+[+]:https://www.linkedin.com/in/farhanahmed82
+[+]:https://www.facebook.com/public/Farhan-Ahmed
+[+]:https://www.espncricinfo.com/player/farhan-ahmed-950311
+[+]:https://en.wikipedia.org/wiki/Farhan_Ahmed_Malhi
+[+]:https://cricheroes.in/player-profile/256358/Farhan-Ahmed
+[+]:https://www.instagram.com/farhanahmdjovan/?hl=en
+[+]:https://in.linkedin.com/in/fahmed96
+[+]:https://advancecricket.com/cricket-player/farhan-ahmed/13008007
+[+]:https://www.sc.com/en/people/farhan-ahmed/
+[+]:https://in.news.search.yahoo.com/search?p=Farhan+Ahmed&fr2=piv-web
+[+]:https://www.facebook.com/farhanahmedofficialpage/
+[+]:https://www.espncricinfo.com/cricketers/farhan-ahmed-950311
+[+]:https://www.linkedin.com/in/farhan-ahmed-618a7612
+[+]:https://in.linkedin.com/in/farhan-ahmed-27015713
+[+]:https://www.instagram.com/farhanmalhiofficial
+##################################################
+
+
+SITE LIST:
+[+]:en.wikipedia.org
+[+]:www.espncricinfo.com
+[+]:www.cricbuzz.com
+[+]:www.instagram.com
+[+]:www.crichq.com
+[+]:www.linkedin.com
+[+]:www.facebook.com
+[+]:in.linkedin.com
+[+]:advancecricket.com
+[+]:www.sc.com
+[+]:in.news.search.yahoo.com
+RESULTS append: 
+******************************
+
+IP Address of itmuniversity.ac.in is 3.6.105.176
+Hostname of 3.6.105.176 is ('ec2-3-6-105-176.ap-south-1.compute.amazonaws.com', [], ['3.6.105.176'])
+Info of itmuniversity.ac.in is [(<AddressFamily.AF_INET: 2>, 0, 0, '', ('3.6.105.176', 80))]
+ghbn of itmuniversity.ac.in is ('itmuniversity.ac.in', [], ['3.6.105.176'])RESULTS append: 
+******************************
+Location of IP: CITY = Mumbai
+STATE = Maharashtra
+COUNTRY = IN
+LatLng = [19.0728, 72.8826]
+*************************
+Server Info of https://lms.itmuniversity.ac.in/ isApache/2.4.52 (Ubuntu)
+
+RESULTS append: 
+******************************File type is: JPG
+******************************
+Image Exif Data:Location: ('Gwalior', 'Madhya Pradesh', 'India', 'in', '474001')
+ImageWidth : 3120
+ImageLength : 3120
+ResolutionUnit : 2
+ExifOffset : 210
+Make : OPPO
+Model : OPPO A33
+Orientation : 0
+DateTime : 2023:01:12 19:05:29
+YCbCrPositioning : 1
+XResolution : 72.0
+YResolution : 72.0
+ExifVersion : b'0210'
+InteropIndex : R98
+DateTimeOriginal : 2023:01:12 19:05:29
+DateTimeDigitized : 2023:01:12 19:05:29
+ComponentsConfiguration : b'\x01\x02\x03\x00'
+ShutterSpeedValue : 4.058
+ApertureValue : 2.2
+BrightnessValue : 42949670.07
+ExposureBiasValue : 0.16666666666666666
+MaxApertureValue : 2.2
+MeteringMode : 2
+Flash : 16
+FocalLength : 3.462
+UserComment : b'oppo_1056'
+ColorSpace : 65535
+SubsecTime : 599000
+SubsecTimeOriginal : 599000
+SubsecTimeDigitized : 599000
+SensingMethod : 1
+ExposureTime : 0.06
+FNumber : 2.2
+SceneType : b'\x01'
+ExposureProgram : 2
+ISOSpeedRatings : 1813
+FlashPixVersion : b'0100'
+FocalLengthIn35mmFilm : 3
+SceneCaptureType : 0
+*************************
+Audio/Video Metadata:
+RESULTS append: 
+album: None
+albumartist: None
+artist: None
+audio_offset: 0
+bitrate: 320.0
+channels: 2
+comment: None
+composer: None
+disc: None
+disc_total: None
+duration: 4.226775
+extra: {}
+filesize: 169199
+genre: None
+samplerate: 48000
+title: None
+track: None
+track_total: None
+year: None
